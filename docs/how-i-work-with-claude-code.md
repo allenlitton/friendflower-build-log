@@ -20,7 +20,7 @@ The feature in [case study 1](case-studies/01-concierge-watch-and-meet-times.md)
 
 ## 3. Slice by user-visible behaviour
 
-PR #6 contains two features, built as two commits (Concierge watch, then find-a-time), each with its own migration and its own tests. A reviewer can read it one slice at a time.
+PR #6 contains two features, built in two steps (Concierge watch, then find-a-time), each with its own migration and its own tests. A reviewer can read it one slice at a time.
 
 ## 4. Fast loop for UI
 

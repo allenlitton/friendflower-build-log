@@ -27,5 +27,5 @@ Concierge watch works out overlaps from trips and home cities at read time. It a
 **5. Tests run the real migrations.**
 Tests apply every migration, in order, to an in-memory Postgres (PGlite) with Supabase's `auth` and `storage` schemas stubbed. There's no cloud account or network, and the tests exercise the same SQL that ships. See [`excerpts/db-test-harness`](../excerpts/db-test-harness).
 
-**6. Two-line browser rule for the repo.**
+**6. Guarding against stale framework knowledge.**
 The project's `AGENTS.md` warns the model that this Next.js version has breaking changes and tells it to read the bundled docs in `node_modules/next/dist/docs/` before writing code. That keeps Claude from writing against stale framework knowledge.
