@@ -4,8 +4,6 @@ A public case study of how I built and shipped **Friend Flower** with Claude Cod
 
 Friend Flower is a mobile web app for meeting friends of friends wherever you are. The source repo is private, so this repo shows how I work: what shipped, how I used Claude Code, how I verified the output, and a few small code excerpts.
 
-<!-- TODO(Allen): add live app link / TestFlight / demo video link here -->
-
 ## The product in one paragraph
 
 You see which of your friends, and friends of friends, are in your city or are about to be. You can say hi, verify a mutual friend, and find a time to meet. Privacy is the main constraint. Knowing someone's phone number must never reveal where they are, so every read of another person goes through a database function that checks your connection to them first.

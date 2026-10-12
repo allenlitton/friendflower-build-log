@@ -33,5 +33,3 @@ Commits written with Claude carry a `Co-Authored-By` trailer, so the history sho
 ## 6. Decisions stay mine
 
 Claude proposes and writes. I decide what the product does: for example, that the AI concierge stays "coming soon" while the non-AI Concierge watch ships, and that the live-distance switch is a single control rather than two.
-
-<!-- TODO(Allen): add 2-3 first-person lines about a time you overruled or redirected Claude, and one thing it caught that you missed. Real specifics make this page. -->

@@ -63,7 +63,3 @@ app/(full)/chat/[id]/chat-view.tsx             +57
     <td align="center"><img src="../../assets/concierge-sheet.jpg" width="240" alt="Concierge sheet: AI concierge coming soon"><br><sub>AI concierge stays "coming soon"</sub></td>
   </tr>
 </table>
-
-<!-- TODO(Allen): add screenshots of the shared-days pill, the slot picker, the posted times card and a Concierge watch card with an alert (assets/chat-shared-days, chat-find-time, chat-times-card, world-concierge-alert). -->
-
-<!-- TODO(Allen): add what you asked Claude for, one thing it got wrong or you changed, and how long this took end to end. -->
