@@ -23,4 +23,8 @@ PR #7 changed 7 lines added, 7 removed. See the real diff in [`excerpts/world-gr
 
 It's a small example of the loop I use for UI work: change one thing, look at it in the app, open a small PR, and move on. The change is easy to review and easy to revert.
 
-<!-- TODO(Allen): add before/after screenshots in /assets. -->
+## Result
+
+<img src="../../assets/world-grid.jpg" width="300" alt="World tab after both PRs: a 4-column grid with first names under each avatar">
+
+<!-- TODO(Allen): optional, add a "before" screenshot of the overlapping-avatar row (commit 1f24a0c). -->

@@ -20,6 +20,21 @@ You see which of your friends, and friends of friends, are in your city or are a
 | Database | 14 SQL migrations, 50+ Postgres functions holding the privacy and friend-graph rules |
 | Tests | 7 scenario test files (about 1,000 lines) that run the real migrations in in-memory Postgres |
 
+## The app
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/world-grid.jpg" width="220" alt="World tab: friends per city in a grid"><br><sub>World: who's where</sub></td>
+    <td align="center"><img src="assets/nearby.jpg" width="220" alt="Nearby tab with degree filters"><br><sub>Nearby, by degree</sub></td>
+    <td align="center"><img src="assets/trips.jpg" width="220" alt="Trips tab with flights and a visibility control"><br><sub>Trips, with who can see them</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/places.jpg" width="220" alt="Places to meet"><br><sub>Places to meet</sub></td>
+    <td align="center"><img src="assets/profile-connection.jpg" width="220" alt="Connection screen: you already know each other"><br><sub>Connection and verification</sub></td>
+    <td align="center"><img src="assets/chat-actions.jpg" width="220" alt="Chat with Let's meet, Share a place and Ask concierge"><br><sub>Chat actions</sub></td>
+  </tr>
+</table>
+
 ## What's in this repo
 
 | Path | What you'll find |

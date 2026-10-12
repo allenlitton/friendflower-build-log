@@ -54,5 +54,16 @@ app/(full)/chat/[id]/chat-view.tsx             +57
 …and small changes to the tab bar, types, formatters and README
 ```
 
-<!-- TODO(Allen): add a screenshot or GIF of the Concierge card and the time-picking card to /assets and embed them here. -->
+## Screens
+
+<table>
+  <tr>
+    <td align="center"><img src="../../assets/world-concierge-watch.jpg" width="240" alt="Concierge watch card on the World tab"><br><sub>Concierge watch (nothing to flag yet)</sub></td>
+    <td align="center"><img src="../../assets/chat-actions.jpg" width="240" alt="Chat actions: Let's meet, Share a place, Ask concierge"><br><sub>Chat actions</sub></td>
+    <td align="center"><img src="../../assets/concierge-sheet.jpg" width="240" alt="Concierge sheet: AI concierge coming soon"><br><sub>AI concierge stays "coming soon"</sub></td>
+  </tr>
+</table>
+
+<!-- TODO(Allen): add screenshots of the shared-days pill, the slot picker, the posted times card and a Concierge watch card with an alert (assets/chat-shared-days, chat-find-time, chat-times-card, world-concierge-alert). -->
+
 <!-- TODO(Allen): add what you asked Claude for, one thing it got wrong or you changed, and how long this took end to end. -->
