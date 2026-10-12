@@ -33,6 +33,11 @@ You see which of your friends, and friends of friends, are in your city or are a
     <td align="center"><img src="assets/profile-connection.jpg" width="220" alt="Connection screen: you already know each other"><br><sub>Connection and verification</sub></td>
     <td align="center"><img src="assets/chat-actions.jpg" width="220" alt="Chat with Let's meet, Share a place and Ask concierge"><br><sub>Chat actions</sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="assets/profile.jpg" width="220" alt="Profile as friends and friends of friends see it"><br><sub>Profile, as others see it</sub></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 ## What's in this repo
