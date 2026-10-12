@@ -33,7 +33,7 @@ You see which of your friends, and friends of friends, are in your city or are a
     <td align="center"><img src="assets/places.jpg" width="160" alt="Places to meet"><br><sub>Places to meet</sub></td>
     <td align="center"><img src="assets/profile-connection.jpg" width="160" alt="Connection screen: you already know each other"><br><sub>Connection and verification</sub></td>
     <td align="center"><img src="assets/chat-actions.jpg" width="160" alt="Chat with Let's meet, Share a place and Ask concierge"><br><sub>Chat actions</sub></td>
-    <td align="center"><img src="assets/profile.jpg" width="160" alt="Profile as friends and friends of friends see it"><br><sub>Profile, as others see it</sub></td>
+    <td align="center"><img src="assets/profile.jpg" width="160" alt="Profile as friends and friends of friends see it"><br><sub>User profile</sub></td>
   </tr>
 </table>
 
