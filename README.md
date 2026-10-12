@@ -24,19 +24,16 @@ You see which of your friends, and friends of friends, are in your city or are a
 
 <table>
   <tr>
-    <td align="center"><img src="assets/world-grid.jpg" width="220" alt="World tab: friends per city in a grid"><br><sub>World: who's where</sub></td>
-    <td align="center"><img src="assets/nearby.jpg" width="220" alt="Nearby tab with degree filters"><br><sub>Nearby, by degree</sub></td>
-    <td align="center"><img src="assets/trips.jpg" width="220" alt="Trips tab with flights and a visibility control"><br><sub>Trips, with who can see them</sub></td>
+    <td align="center"><img src="assets/world-grid.jpg" width="160" alt="World tab: friends per city in a grid"><br><sub>World: who's where</sub></td>
+    <td align="center"><img src="assets/world-concierge-watch.jpg" width="160" alt="Concierge watch card on the World tab"><br><sub>Concierge watch</sub></td>
+    <td align="center"><img src="assets/nearby.jpg" width="160" alt="Nearby tab with degree filters"><br><sub>Nearby, by degree</sub></td>
+    <td align="center"><img src="assets/trips.jpg" width="160" alt="Trips tab with flights and a visibility control"><br><sub>Trips, with who can see them</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/places.jpg" width="220" alt="Places to meet"><br><sub>Places to meet</sub></td>
-    <td align="center"><img src="assets/profile-connection.jpg" width="220" alt="Connection screen: you already know each other"><br><sub>Connection and verification</sub></td>
-    <td align="center"><img src="assets/chat-actions.jpg" width="220" alt="Chat with Let's meet, Share a place and Ask concierge"><br><sub>Chat actions</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/profile.jpg" width="220" alt="Profile as friends and friends of friends see it"><br><sub>Profile, as others see it</sub></td>
-    <td></td>
-    <td></td>
+    <td align="center"><img src="assets/places.jpg" width="160" alt="Places to meet"><br><sub>Places to meet</sub></td>
+    <td align="center"><img src="assets/profile-connection.jpg" width="160" alt="Connection screen: you already know each other"><br><sub>Connection and verification</sub></td>
+    <td align="center"><img src="assets/chat-actions.jpg" width="160" alt="Chat with Let's meet, Share a place and Ask concierge"><br><sub>Chat actions</sub></td>
+    <td align="center"><img src="assets/profile.jpg" width="160" alt="Profile as friends and friends of friends see it"><br><sub>Profile, as others see it</sub></td>
   </tr>
 </table>
 
