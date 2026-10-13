@@ -33,6 +33,9 @@ You see which of your friends, and friends of friends, are in your city or are a
     <td align="center"><img src="assets/chat-actions.jpg" width="160" alt="Chat with Let's meet, Share a place and Ask concierge"><br><sub>Chat actions</sub></td>
     <td align="center"><img src="assets/profile.jpg" width="160" alt="Profile as friends and friends of friends see it"><br><sub>User profile</sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="assets/mutual-friend-map.jpg" width="160" alt="2nd degree connection: map of the mutual friend between you and another person"><br><sub>Mutual friend map</sub></td>
+  </tr>
 </table>
 
 ## What's in this repo
